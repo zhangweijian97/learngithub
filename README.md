@@ -10,4 +10,5 @@ meaningless sentence.
 1. another useless sentence.
 
 ## section for conflict created from learn-conflict
+## make conflict modified by master
 
